@@ -23,10 +23,16 @@ Natural language reasoning (via Groq Llama)
 5. Use Clear to reset inputs and outputs.
 
 ##  Technologies Used
--Python()
+-Python.
+
 -Jupyter Notebook.
+
 -LangGraph.
+
 -Groq API(LLM model).
+
 -dotenv(for environment variable management).
+
 -Git & Github.
+
 -Gradio.
