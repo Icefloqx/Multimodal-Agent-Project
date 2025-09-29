@@ -1,7 +1,7 @@
 # Multimodal AI Agent
 
 ## Overview
-his project is a multimodal AI agent powered by Groq LLM and a Gradio web interface.
+This project is a multimodal AI agent powered by Groq LLM and a Gradio web interface.
 The agent can take both text questions and image uploads as input, then provide an answer by combining:
 
 Image understanding (via Groq LLM prompt)
